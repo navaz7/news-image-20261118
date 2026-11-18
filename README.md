@@ -6,6 +6,6 @@ One front page that sums up Wednesday, 18 November 2026: Trump flies to Shenzhen
 
 `entry.png` (1024×1024) is composed by `build_image.py` (Python + Pillow) from four editorial illustrations in a navy/crimson/cream front-page layout; re-run `python3 build_image.py` to rebuild it. `main.ts` is the grader entry point: it copies `entry.png` into `$MAKEFUN_OUTPUT_DIR`.
 
-[![make.fun entry](https://make.fun/api/competitions/news-image-20261118/badge/navaz7/news-image-20261118/exists.svg)](https://make.fun/bounty/news-image-20261118)
-[![make.fun valid](https://make.fun/api/competitions/news-image-20261118/badge/navaz7/news-image-20261118/valid.svg)](https://make.fun/bounty/news-image-20261118)
-[![make.fun rank](https://make.fun/api/competitions/news-image-20261118/badge/navaz7/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118)
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/navaz7/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/navaz7/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
